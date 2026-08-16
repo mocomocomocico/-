@@ -3,10 +3,6 @@
 基于 **Streamlit + LangChain + LangGraph + Chroma + DeepSeek V4 Flash** 的本地知识库问答系统：
 上传文档自动入库，支持多轮对话、来源引用、深度思考与 Agent 检索。
 
-本目录是原项目 `Learningproject` 的可读性重构版（原项目保留不动），
-功能保留 1–6 项（文档入库、两种问答流程、混合检索、实时工具、聊天体验、
-Langfuse 可观测性），砍掉了离线评估（Ragas）。
-
 ## 快速开始
 
 ```bash
